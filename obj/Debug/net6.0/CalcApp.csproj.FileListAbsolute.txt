@@ -1,0 +1,15 @@
+D:\MPHASIS PROJECTS\Phase-4\CalcApp\CalcApp\bin\Debug\net6.0\CalcApp.exe
+D:\MPHASIS PROJECTS\Phase-4\CalcApp\CalcApp\bin\Debug\net6.0\CalcApp.deps.json
+D:\MPHASIS PROJECTS\Phase-4\CalcApp\CalcApp\bin\Debug\net6.0\CalcApp.runtimeconfig.json
+D:\MPHASIS PROJECTS\Phase-4\CalcApp\CalcApp\bin\Debug\net6.0\CalcApp.dll
+D:\MPHASIS PROJECTS\Phase-4\CalcApp\CalcApp\bin\Debug\net6.0\CalcApp.pdb
+D:\MPHASIS PROJECTS\Phase-4\CalcApp\CalcApp\obj\Debug\net6.0\CalcApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPHASIS PROJECTS\Phase-4\CalcApp\CalcApp\obj\Debug\net6.0\CalcApp.AssemblyInfoInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\CalcApp\CalcApp\obj\Debug\net6.0\CalcApp.AssemblyInfo.cs
+D:\MPHASIS PROJECTS\Phase-4\CalcApp\CalcApp\obj\Debug\net6.0\CalcApp.csproj.CoreCompileInputs.cache
+D:\MPHASIS PROJECTS\Phase-4\CalcApp\CalcApp\obj\Debug\net6.0\CalcApp.dll
+D:\MPHASIS PROJECTS\Phase-4\CalcApp\CalcApp\obj\Debug\net6.0\refint\CalcApp.dll
+D:\MPHASIS PROJECTS\Phase-4\CalcApp\CalcApp\obj\Debug\net6.0\CalcApp.pdb
+D:\MPHASIS PROJECTS\Phase-4\CalcApp\CalcApp\obj\Debug\net6.0\CalcApp.genruntimeconfig.cache
+D:\MPHASIS PROJECTS\Phase-4\CalcApp\CalcApp\obj\Debug\net6.0\ref\CalcApp.dll
+D:\MPHASIS PROJECTS\Phase-4\CalcApp\CalcApp\obj\Debug\net6.0\CalcApp.sourcelink.json
